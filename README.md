@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rijuta Bhandari
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me riju.bdri@gmail.com
 - ⚡ Fun fact: Code is like humor. When you have to explain it, it’s bad.
